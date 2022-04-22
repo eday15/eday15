@@ -3,6 +3,9 @@
 <h3 align="center">I am a mechanically minded Data Scientist, Analyst, Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eday15&label=Profile%20views&color=0e75b6&style=flat" alt="eday15" /> </p>
+I'm a former trade school graduate and mechanical equipment technician turned Data Science Analyst! I am excited to continue my hands-on training on collaborative projects to facilitate data analysis, predictable outcomes, and produce industry specific insight using the latest machine learning and data modeling tools. Currently, I am exploring data infrastructure automation techniques using a manual deployment process to AWS Elastic Beanstalk while working to implement improvements for end to end integration testing to achieve centralize data storage, data models, and effective data tracking for analytics.
+
+I am open to discuss Data Science and Data Analyst career opportunities and I look forward to connecting!
 
 - ⚡ Fun fact: I previously helped maintain a shelter facility and helped residents transition to a more permanent housing situation
 
